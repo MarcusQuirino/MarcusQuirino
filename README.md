@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcusQuirino
+- 👋 Hi, I’m Marcus 
 
 I am a brazilian software engineering student at Pontifical Catholic University of Rio Grande do Sul.
 
